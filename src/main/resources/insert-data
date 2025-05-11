@@ -1,0 +1,61 @@
+INSERT INTO product (product_name, product_description, product_brand, product_price, product_category, product_release_date, is_product_available, product_stock_quantity)
+VALUES
+('Wireless Headphones', 'Noise-cancelling over-ear headphones', 'Sony', 199.99, 'Electronics', '2024-02-15', true, 120),
+
+('Running Shoes', 'Breathable and lightweight running shoes', 'Nike', 89.50, 'Footwear', '2023-11-01', true, 200),
+
+('Smartwatch Pro', 'Smartwatch with fitness tracking and GPS', 'Apple', 299.00, 'Wearables', '2024-04-10', true, 75),
+
+('Coffee Maker', '12-cup programmable coffee maker', 'Philips', 59.99, 'Home Appliances', '2022-09-20', true, 45),
+
+('Gaming Laptop', 'High-performance laptop with RTX graphics', 'Asus', 1499.00, 'Computers', '2023-05-15', true, 30),
+
+('Desk Lamp', 'LED desk lamp with adjustable brightness', 'Syska', 25.75, 'Home Decor', '2023-02-22', true, 150),
+
+('Office Chair', 'Ergonomic chair with lumbar support', 'Herman Miller', 320.00, 'Furniture', '2024-01-05', true, 60),
+
+('Electric Toothbrush', 'Rechargeable electric toothbrush with 3 modes', 'Oral-B', 39.99, 'Personal Care', '2023-07-11', true, 100),
+
+('Blender', 'Multi-speed kitchen blender with glass jar', 'NutriBullet', 65.25, 'Kitchen Appliances', '2023-08-30', true, 80),
+
+('4K Smart TV', '55-inch Ultra HD Smart LED TV', 'Samsung', 749.99, 'Electronics', '2023-10-12', true, 40),
+
+('Bluetooth Speaker', 'Portable speaker with 10-hour battery life', 'JBL', 49.99, 'Electronics', '2023-06-14', true, 90),
+
+('Yoga Mat', 'Non-slip yoga mat with carrying strap', 'Reebok', 25.00, 'Fitness', '2022-12-10', true, 120),
+
+('Tablet 10.1"', 'Android tablet with HD display and 64GB storage', 'Lenovo', 189.99, 'Electronics', '2024-03-01', true, 50),
+
+('Refrigerator 300L', 'Double-door fridge with energy-efficient cooling', 'LG', 699.99, 'Home Appliances', '2023-09-22', true, 25),
+
+('Hair Dryer', 'Lightweight hair dryer with ionic technology', 'Panasonic', 34.95, 'Personal Care', '2023-01-05', true, 140),
+
+('Gaming Mouse', 'Ergonomic mouse with RGB lighting', 'Logitech', 45.00, 'Accessories', '2022-11-15', true, 110),
+
+('Wireless Charger', 'Fast charging pad for smartphones', 'Anker', 19.99, 'Accessories', '2023-04-17', true, 95),
+
+('Digital Camera', 'Mirrorless camera with 24MP sensor', 'Canon', 549.99, 'Photography', '2023-08-09', true, 35),
+
+('Kitchen Knife Set', 'Stainless steel knife set with block', 'Victorinox', 89.90, 'Kitchen', '2023-10-05', true, 80),
+
+('Smart Light Bulb', 'Wi-Fi enabled LED bulb with app control', 'Philips Hue', 15.99, 'Smart Home', '2023-07-19', true, 150),
+
+('Microwave Oven', '1000W microwave with grill function', 'Samsung', 149.50, 'Home Appliances', '2023-03-15', true, 60),
+
+('Desk Organizer', 'Multi-compartment organizer for stationery', 'Staples', 12.99, 'Office Supplies', '2022-10-10', true, 200),
+
+('Fitness Tracker', 'Waterproof tracker with heart rate monitor', 'Fitbit', 129.95, 'Wearables', '2023-11-12', true, 85),
+
+('Vacuum Cleaner', 'Bagless vacuum cleaner with HEPA filter', 'Dyson', 399.00, 'Home Appliances', '2023-05-20', true, 30),
+
+('Sunglasses', 'Polarized sunglasses with UV protection', 'Ray-Ban', 149.99, 'Fashion', '2024-04-01', true, 170),
+
+('Backpack', 'Water-resistant backpack with laptop sleeve', 'Wildcraft', 39.90, 'Travel', '2023-09-01', true, 130),
+
+('Men''s Jacket', 'Winter jacket with thermal insulation', 'The North Face', 199.95, 'Clothing', '2023-11-20', true, 45),
+
+('Electric Kettle', 'Cordless kettle with auto shut-off', 'Prestige', 29.99, 'Kitchen Appliances', '2023-06-05', true, 100),
+
+('Pet Food 10kg', 'Dry food for adult dogs', 'Pedigree', 45.00, 'Pet Supplies', '2023-08-08', true, 60),
+
+('Laptop Stand', 'Aluminum stand for laptops up to 17"', 'AmazonBasics', 24.50, 'Accessories', '2023-02-18', true, 85);
